@@ -55,6 +55,7 @@ const AddItems = () => {
             <DashboardSectionTitle subHeading={'---What is new?---'} heading={'ADD AN ITEM'}>
 
             </DashboardSectionTitle>
+           
             <div className='my-6 bg-gray-200 p-10'>
                 <form onSubmit={handleSubmit(onSubmit)}>
 
